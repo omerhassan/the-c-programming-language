@@ -6,4 +6,4 @@ and the result was a clean, consistent design with little baggage. The K&R book 
 complete language and standard library, with numerous examples and exercises, in only 261 pages.
 The simplicity of C made it relatively easy to learn and to port to different computers.
 
-This repository contains my solutions to The K&R book (The C Programming Language).
+This repository contains my programming solutions to The K&R book (The C Programming Language).
