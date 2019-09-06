@@ -7,3 +7,4 @@ complete language and standard library, with numerous examples and exercises, in
 The simplicity of C made it relatively easy to learn and to port to different computers.
 
 This repository contains my programming solutions to The K&R book (The C Programming Language).
+NOTE: Here is a working solution to exercises that involves only concepts introduced up to the point of the exercise.
