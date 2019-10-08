@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define MAXLINE 1000	 /* maximum input line size */
-#define TAB 4			/* should be a symbolic parameter*/
+#define TAB 4		/* should be a symbolic parameter*/
 
 int getlineA(char line[], int maxline);
 int detab(char to[], char from[]);
@@ -17,6 +17,8 @@ int main()
 	{
 		lenNoTab = detab(deTabLine, line);
 		printf("with TABs : %d, without TABs : %d\n",len, lenNoTab);
+		printf("%s", line);
+		printf("%s", deTabLine);
 	}
 	return 0;
 }
@@ -41,11 +43,13 @@ int detab(char to[], char from[])
 
 	i = j = 0;
 	while ((to[j] = from[i]) != '\0') {
-		if (to[j] == '\t')
+		if (to[j] == '\t') {
 			for (n = 0; n < TAB; ++n) {
 				to[j] = ' ';
 				++j;
 			}
+			--j;      
+		}
 			++i;
 			++j;
 	}
