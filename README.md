@@ -6,6 +6,14 @@ and the result was a clean, consistent design with little baggage. The K&R book 
 complete language and standard library, with numerous examples and exercises, in only 261 pages.
 The simplicity of C made it relatively easy to learn and to port to different computers.
 
+
+C is a middle-level PL (not a low-level PL, as most of the uninformed people say). When people talk about it you’ll hear
+phrases like “coding to the metal,” or “coding close to the wire.” C is the language of compilers, interpreters, editors, 
+operating systems and embedded programming. When you learn to program in C you almost have to gain an understanding of how
+programs execute. You know what things like register, stack, heap, and memory mapped IO mean.
+
+I'm very curious to know "what's going on under the hood", so I choose C for digging :)
+
 This repository contains my programming solutions to The K&R book (The C Programming Language).
 
 NOTE: Here is a working solution to exercises that involves only concepts introduced up to the point of the exercise. 
