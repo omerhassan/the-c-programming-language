@@ -10,6 +10,8 @@ The C Programming Language Exercises Solutions. (ANSI C)
 
 ![The C Programming Language cover](https://images-na.ssl-images-amazon.com/images/I/411ejyE8obL._SX377_BO1,204,203,200_.jpg)
 
+> The C Programming Language, 2nd Edition (K&R)
+
 C is a small, simple language.The design was controlled by a single person, rather than a committee,
 and the result was a clean, consistent design with little baggage. The K&R book describes the
 complete language and standard library, with numerous examples and exercises, in only 261 pages.
