@@ -1,5 +1,7 @@
 # The_C_Programming_Language
 The C Programming Language Exercises. (ANSI C)
+![Steam Views](https://img.shields.io/steam/views/100)
+![GitHub contributors](https://img.shields.io/github/contributors/omerhassan/The_C_Programming_Language)
 
 C is a small, simple language.The design was controlled by a single person, rather than a committee,
 and the result was a clean, consistent design with little baggage. The K&R book describes the
@@ -7,8 +9,8 @@ complete language and standard library, with numerous examples and exercises, in
 The simplicity of C made it relatively easy to learn and to port to different computers.
 
 
-C is a middle-level PL (not a low-level PL, as most of the uninformed people say). When people talk about it you’ll hear
-phrases like “coding to the metal,” or “coding close to the wire.” C is the language of compilers, interpreters, editors, 
+C is a middle-level PL (not a low-level PL, as most of the uninformed people say). When people talk about it youï¿½ll hear
+phrases like ï¿½coding to the metal,ï¿½ or ï¿½coding close to the wire.ï¿½ C is the language of compilers, interpreters, editors, 
 operating systems and embedded programming. When you learn to program in C you almost have to gain an understanding of how
 programs execute. You know what things like register, stack, heap, and memory mapped IO mean.
 
