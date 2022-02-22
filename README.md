@@ -16,13 +16,10 @@ The K&R book set a standard which showed what C was great at, it got you far eno
 
 > Kernighan and Ritchie’s C Programming Language isn’t just a good programming book, it is a model of how technical writing should be.
 
-C is a middle-level PL (not a low-level PL, as most of the uninformed people say). When people talk about it you�ll hear
-phrases like �coding to the metal,� or �coding close to the wire.� C is the language of compilers, interpreters, editors, 
-operating systems and embedded programming. When you learn to program in C you almost have to gain an understanding of how
-programs execute. You know what things like register, stack, heap, and memory mapped IO mean.
-
 I'm very curious to know "what's going on under the hood", so I choose C for digging :)
 
 This repository contains my programming solutions to The K&R book (The C Programming Language).
 
-NOTE: Here is a working solution to exercises that involves only concepts introduced up to the point of the exercise. 
+> NOTE: Here is a working solution to exercises that involves only concepts introduced up to the point of the exercise.
+
+1. [Chapter 1. A Tutorial Introduction](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%201.%20A%20Tutorial%20Introduction)
