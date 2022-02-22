@@ -1,6 +1,6 @@
 # The C Programming Language
 
-https://img.shields.io/github/languages/top/omerhassan/The_C_Programming_Language
+![GitHub top language](https://img.shields.io/github/languages/top/omerhassan/The_C_Programming_Language)
 ![Steam Views](https://img.shields.io/steam/views/100)
 ![GitHub contributors](https://img.shields.io/github/contributors/omerhassan/The_C_Programming_Language)
 
