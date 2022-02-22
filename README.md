@@ -17,6 +17,7 @@ and the result was a clean, consistent design with little baggage. The K&R book 
 complete language and standard library, with numerous examples and exercises, in only 261 pages.
 The simplicity of C made it relatively easy to learn and to port to different computers.
 
+> Kernighan and Ritchie’s C Programming Language isn’t just a good programming book, it is a model of how >technical writing should be
 
 C is a middle-level PL (not a low-level PL, as most of the uninformed people say). When people talk about it you�ll hear
 phrases like �coding to the metal,� or �coding close to the wire.� C is the language of compilers, interpreters, editors, 
