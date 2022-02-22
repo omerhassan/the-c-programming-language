@@ -24,3 +24,6 @@ This repository contains my programming solutions to The K&R book (The C Program
 
 - [Chapter 1. A Tutorial Introduction](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%201.%20A%20Tutorial%20Introduction)
 - [Chapter 2. Types, Operators, and Expressions](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%202.%20Types%2C%20Operators%2C%20and%20Expressions)
+- [Chapter 3. Control Flow](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%203.%20Control%20Flow)
+- [Chapter 4. Functions and Program Structure](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%204.%20Functions%20and%20Program%20Structure)
+- [Chapter 5. Pointers and Arrays](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%205.%20Pointers%20and%20Arrays)
