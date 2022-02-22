@@ -3,6 +3,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/omerhassan/The_C_Programming_Language)
 ![Steam Views](https://img.shields.io/steam/views/100)
 ![GitHub contributors](https://img.shields.io/github/contributors/omerhassan/The_C_Programming_Language)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/omerhassan/The_C_Programming_Language?color=lightgrey)
+![Lines of code](https://img.shields.io/tokei/lines/github/omerhassan/The_C_Programming_Language?color=important)
 
 The C Programming Language Exercises. (ANSI C)
 
