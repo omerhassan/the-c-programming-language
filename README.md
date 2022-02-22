@@ -27,3 +27,6 @@ This repository contains my programming solutions to The K&R book (The C Program
 - [Chapter 3. Control Flow](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%203.%20Control%20Flow)
 - [Chapter 4. Functions and Program Structure](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%204.%20Functions%20and%20Program%20Structure)
 - [Chapter 5. Pointers and Arrays](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%205.%20Pointers%20and%20Arrays)
+
+
+![GitHub](https://img.shields.io/github/license/omerhassan/The_C_Programming_Language)
