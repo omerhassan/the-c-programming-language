@@ -1,7 +1,10 @@
-# The_C_Programming_Language
-The C Programming Language Exercises. (ANSI C)
+# The C Programming Language
+
+https://img.shields.io/github/languages/top/omerhassan/The_C_Programming_Language
 ![Steam Views](https://img.shields.io/steam/views/100)
 ![GitHub contributors](https://img.shields.io/github/contributors/omerhassan/The_C_Programming_Language)
+
+The C Programming Language Exercises. (ANSI C)
 
 C is a small, simple language.The design was controlled by a single person, rather than a committee,
 and the result was a clean, consistent design with little baggage. The K&R book describes the
