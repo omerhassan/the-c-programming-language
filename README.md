@@ -12,10 +12,7 @@ The C Programming Language Exercises Solutions. (ANSI C)
 
 > The C Programming Language, 2nd Edition (K&R)
 
-C is a small, simple language.The design was controlled by a single person, rather than a committee,
-and the result was a clean, consistent design with little baggage. The K&R book describes the
-complete language and standard library, with numerous examples and exercises, in only 261 pages.
-The simplicity of C made it relatively easy to learn and to port to different computers.
+The K&R book set a standard which showed what C was great at, it got you far enough to truly understand the language, and all you were left with was the computer science and the specific libraries the book didn’t include. By the time you were done, there was no question as to what the core language could and couldn’t do.
 
 > Kernighan and Ritchie’s C Programming Language isn’t just a good programming book, it is a model of how technical writing should be.
 
