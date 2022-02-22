@@ -22,5 +22,5 @@ This repository contains my programming solutions to The K&R book (The C Program
 
 > NOTE: Here is a working solution to exercises that involves only concepts introduced up to the point of the exercise.
 
-[Chapter 1. A Tutorial Introduction](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%201.%20A%20Tutorial%20Introduction)
-[Chapter 2. Types, Operators, and Expressions](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%202.%20Types%2C%20Operators%2C%20and%20Expressions)
+- [Chapter 1. A Tutorial Introduction](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%201.%20A%20Tutorial%20Introduction)
+- [Chapter 2. Types, Operators, and Expressions](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%202.%20Types%2C%20Operators%2C%20and%20Expressions)
