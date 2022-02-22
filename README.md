@@ -6,7 +6,9 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/omerhassan/The_C_Programming_Language?color=lightgrey)
 ![Lines of code](https://img.shields.io/tokei/lines/github/omerhassan/The_C_Programming_Language?color=important)
 
-The C Programming Language Exercises. (ANSI C)
+The C Programming Language Exercises Solutions. (ANSI C)
+
+![The C Programming Language cover](https://images-na.ssl-images-amazon.com/images/I/411ejyE8obL._SX377_BO1,204,203,200_.jpg)
 
 C is a small, simple language.The design was controlled by a single person, rather than a committee,
 and the result was a clean, consistent design with little baggage. The K&R book describes the
