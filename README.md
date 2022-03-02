@@ -29,4 +29,5 @@ This repository contains my programming solutions to The K&R book (The C Program
 - [Chapter 5. Pointers and Arrays](https://github.com/omerhassan/The_C_Programming_Language/tree/master/Chapter%205.%20Pointers%20and%20Arrays)
 
 ## License
+
 ![GitHub](https://img.shields.io/github/license/omerhassan/The_C_Programming_Language)
