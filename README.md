@@ -14,7 +14,9 @@ The C Programming Language Exercises Solutions. (ANSI C)
 
 ## The C Programming Language (K&R) Book
 
-[The C Programming Language (sometimes termed K&R, ***after its authors' initials***)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) book set a standard which showed what C was great at, it got you far enough to truly understand the language, and all you were left with was the computer science and the specific libraries the book didn’t  include. By the time you were done, there was no question as to what the core language could and couldn’t do.
+[The C Programming Language (sometimes termed K&R, ***after its authors' initials***)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) book set a standard which showed what C was great at, it got you far enough to truly understand the language.
+
+And all you were left with was the computer science and the specific libraries the book didn’t  include. By the time you were done, there was no question as to what the core language could and couldn’t do.
 
 > Kernighan and Ritchie’s C Programming Language isn’t just a good programming book, it is a model of how technical writing should be.
 
