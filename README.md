@@ -22,7 +22,7 @@ The K&R book set a standard which showed what C was great at, it got you far eno
 
 In the first, you will not find me set in peace if I don't understand very well what is going on "***under the hood***" for what concepts or anything that faced me and I really cares about it.
 
-So a mind like this will always put you in trouble if your professional career is in one of the ***STEM*** domains like meine. :v::sweat_smile:
+So a mind like this will always put you in trouble if your professional career is in one of the ***STEM*** domains like mine. :v::sweat_smile:
 
 And during my journey to learning what is going on "***under the hood***" of a ***Computer System***.
 I was directed to read [Computer Systems: A Programmer's Perspective](<https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=asc_df_013409266X/?tag=hyprod-20&linkCode=df0&hvadid=312045876164&hvpos=&hvnetw=g&hvrand=12521604797624836547&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2840&hvtargid=pla-434658419254&psc=1>) book (credit goes to ***Uncle Tango***) :love_you_gesture::sunglasses:.
