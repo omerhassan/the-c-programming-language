@@ -12,9 +12,9 @@ The C Programming Language Exercises Solutions. (ANSI C)
 
 > The C Programming Language, 2nd Edition (K&R)
 
-## The K&R Book
+## The C Programming Language (K&R) Book
 
-The K&R book set a standard which showed what C was great at, it got you far enough to truly understand the    language, and all you were left with was the computer science and the specific libraries the book didn’t  include. By the time you were done, there was no question as to what the core language could and couldn’t do.
+[The C Programming Language (sometimes termed K&R, ***after its authors' initials***)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) book set a standard which showed what C was great at, it got you far enough to truly understand the language, and all you were left with was the computer science and the specific libraries the book didn’t  include. By the time you were done, there was no question as to what the core language could and couldn’t do.
 
 > Kernighan and Ritchie’s C Programming Language isn’t just a good programming book, it is a model of how technical writing should be.
 
@@ -33,7 +33,7 @@ And be prepared to delve deeper, studying such topics as compilers, computer arc
 
 The book assumes some familiarity with C or C++, And fortunately, the book authors recommended ***K&R*** textbook when they said:
 
-> Fortunately, C is a small language, and it is clearly and beautifully described in the classic “K&R” text by Brian Kernighan and Dennis Ritchie [58]. Regardless of your programming background, consider K&R an essential part of your personal systems library.
+> Fortunately, C is a small language, and it is clearly and beautifully described in the classic “K&R” text by Brian Kernighan and Dennis Ritchie. Regardless of your programming background, consider K&R an essential part of your personal systems library.
 
 After that, I find my mind fell in love with this book.
 
