@@ -1,10 +1,10 @@
 # The C Programming Language
 
-![GitHub top language](https://img.shields.io/github/languages/top/omerhassan/The_C_Programming_Language)
+![GitHub top language](https://img.shields.io/github/languages/top/omerhassan/the-c-programming-language)
 ![Steam Views](https://img.shields.io/steam/views/100)
-![GitHub contributors](https://img.shields.io/github/contributors/omerhassan/The_C_Programming_Language)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/omerhassan/The_C_Programming_Language?color=lightgrey)
-![Lines of code](https://img.shields.io/tokei/lines/github/omerhassan/The_C_Programming_Language?color=important)
+![GitHub contributors](https://img.shields.io/github/contributors/omerhassan/the-c-programming-language)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/omerhassan/the-c-programming-language?color=lightgrey)
+![Lines of code](https://img.shields.io/tokei/lines/github/omerhassan/the-c-programming-language?color=important)
 
 The C Programming Language Exercises Solutions. (ANSI C)
 
